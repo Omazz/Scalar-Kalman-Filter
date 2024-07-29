@@ -8,12 +8,13 @@ In thе future, this repo will present of all the Kalman filters that he analyze
 
 ### One-dimensional case:  
 [See the lib](...)  
-[View IPython Notebook](https://github.com/Omazz/Scalar-Kalman-Filter/blob/main/docs/1dim_CV.ipynb)
+[View IPython Notebook (Only coordinate)](https://github.com/Omazz/Scalar-Kalman-Filter/blob/main/docs/1dim_CV_x.ipynb)  
+[View IPython Notebook (Coordinate and velocity) ](https://github.com/Omazz/Scalar-Kalman-Filter/blob/main/docs/1dim_CV_xv.ipynb)
 
 ### Two-dimensional case:
 [See the lib](...)  
-[View IPython Notebook](https://github.com/Omazz/Scalar-Kalman-Filter/blob/main/docs/2dim_CV.ipynb)
-
+[View IPython Notebook (Only coordinate)](https://github.com/Omazz/Scalar-Kalman-Filter/blob/main/docs/2dim_CV.ipynb)  
+[View IPython Notebook (Coordinate and velocity) ](https://github.com/Omazz/Scalar-Kalman-Filter/blob/main/docs/2dim_CV_xv.ipynb)
 ## CA model:
 
 ### One-dimensional case:  
